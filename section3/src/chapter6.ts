@@ -7,7 +7,7 @@ type Person = {
   age: number;
 };
 
-// 객체의 property를 나주엥 추가하려는 경우
+// 객체의 property를 나중에 추가하려는 경우
 // 처음에 빈 객체만 넣어주면 빈 객체 타입{}으로 정의됨.
 // let person = {};
 // 이러면 객체에 property가 없다고 에러를 보냄.
